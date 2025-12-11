@@ -1,3 +1,5 @@
+![CI](https://github.com/vili999/simple-ci-cd-docker-app/actions/workflows/ci.yml/badge.svg)
+
 # Simple CI/CD Docker App  
 A minimal FastAPI-based application demonstrating a complete **CI/CD pipeline** using **GitHub Actions**, **Docker**, automated tests, and code quality checks.  
 This project is part of my DevOps portfolio and shows my understanding of modern DevOps workflows.
@@ -117,5 +119,6 @@ This demonstrates a real DevOps CI workflow suitable for production.
 ## 👩‍💻 Author
 **Velyana Petrova**  
 DevOps Engineer in training  
+
 
 ---
